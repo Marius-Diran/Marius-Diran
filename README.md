@@ -38,4 +38,4 @@
 
  ### Let's Connect: 
 
-[![Twitter: Marius Odediran](https://img.shields.io/twitter/follow/Marius-Diran?style=social)](https://twitter.com/odediran_marius)
+[![Twitter: marius_odediran](https://img.shields.io/twitter/follow/Marius-Diran?style=social)](https://twitter.com/odediran_marius)
