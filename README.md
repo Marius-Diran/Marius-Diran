@@ -38,4 +38,4 @@
 
  ### Let's Connect: 
 
-[![Twitter: marius_odediran](https://img.shields.io/twitter/follow/Marius-Diran?style=social)](https://twitter.com/odediran_marius)
+[![Linkedin: Marius-Diran](https://img.shields.io/badge/-Marius-Diran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Marius-Diran/)](https://www.linkedin.com/in/marius-odediran-94795b235/)
