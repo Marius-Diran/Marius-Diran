@@ -35,3 +35,7 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"style="vertical-align:top; margin: 4px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="vertical-align:top; margin:4px"/>
+
+ ### Let's Connect: 
+
+[![Twitter: samuelajala01](https://img.shields.io/twitter/follow/Marius Odediran?style=social)](https://twitter.com/odediran_marius)
