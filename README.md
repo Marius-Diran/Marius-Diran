@@ -22,6 +22,7 @@
 ## My Dev Stats:
 <div align="center">
   <img align="center" width=600em src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&icon_color=149414&title_color=149414&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=149414"/>
+ <br>
   <img align="center" width=600em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-Diran&layout=compact&title_color=149414&text_color=149414&langs_count=7&bg_color=000"/>
  </div> 
  
