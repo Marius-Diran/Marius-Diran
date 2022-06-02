@@ -16,7 +16,7 @@
  
 - #### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I love anime <br><br>
+- #### ⚡ Fun fact: I'm an OTAKU <br><br>
 
 
 ## My Dev Stats:
