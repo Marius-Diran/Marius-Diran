@@ -21,7 +21,7 @@
 
 ## My Dev Stats:
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Diran&show_icons=true&locale=en&layout=compact" alt="Marius-Diran" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Diran&show_icons=true&locale=en" alt="Marius-Diran" /></p>
   <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&locale=en" alt="Marius-Diran" /></p>
   <br>
