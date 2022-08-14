@@ -21,10 +21,11 @@
 
 ## My Dev Stats:
 <div align="center">
-  <img align="center" width=600em src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&icon_color=1a1aff&title_color=1a1aff&show_icons=true&bg_color=000000&include_all_commits=true&count_private=true&border_radius=30&text_color=1a1aff"/>
- <br>
- <br>
-  <img align="center" width=600em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-Diran&layout=compact&title_color=149414&text_color=149414&langs_count=7&bg_color=000"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Diran&show_icons=true&locale=en&layout=compact" alt="Marius-Diran" /></p>
+  <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&locale=en" alt="Marius-Diran" /></p>
+  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marius-Diran&" alt="Marius-Diran" /></p>
  </div> 
  
    ## Languages and Tools:
@@ -37,3 +38,9 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"style="vertical-align:top; margin: 4px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="vertical-align:top; margin:4px"/>
+   
+   <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/odediran_marius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Marius-Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marius-odediran-94795b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agboola-olawale-damilola-7b2132246" height="30" width="40" /></a>
+</p>
