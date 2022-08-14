@@ -39,7 +39,7 @@
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"style="vertical-align:top; margin: 4px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="vertical-align:top; margin:4px"/>
    
-   <h3 align="left">Connect with me:</h3>
+   ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/odediran_marius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Marius-Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/marius-odediran-94795b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agboola-olawale-damilola-7b2132246" height="30" width="40" /></a>
