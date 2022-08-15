@@ -21,7 +21,7 @@
 
 ## My Dev Stats:
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Diran&show_icons=true&locale=en&layout=compact" alt="Marius-Diran" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Diran&show_icons=true&locale=en&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28" alt="Marius-Diran" /></p>
   <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&locale=en" alt="Marius-Diran" /></p>
   <br>
@@ -38,9 +38,11 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"style="vertical-align:top; margin: 4px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" style="vertical-align:top; margin:4px"/>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" style="vertical-align:top; margin:4px"/>
    
    ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/odediran_marius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Marius-Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/marius-odediran-94795b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agboola-olawale-damilola-7b2132246" height="30" width="40" /></a>
+<a href="mailto:diranmarius8@gmail.com" alt="contact me"><img align="center" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" width="45" height="45"></a>
 </p>
