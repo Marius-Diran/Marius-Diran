@@ -16,7 +16,7 @@
  
 - #### 😄 Pronouns: He/Him
  
-- #### ⚡ Fun fact: I'm an OTAKU <br><br>
+- #### ⚡ Fun fact: I'm an OTAKU and a GAMER <br><br>
 
 
 ## My Dev Stats:
