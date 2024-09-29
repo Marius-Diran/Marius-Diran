@@ -27,7 +27,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,firebase,arduino,git,github,vercel,vscode,figma,aws &perline=8"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,firebase,arduino,git,github,vercel,vscode,figma,aws &perline=8"/>
   </a>
 </p>
 
