@@ -6,40 +6,54 @@
   </a>
 </h1>
 
-- #### 🔭 Building the future with Technology
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marius-diran&label=Profile%20views&color=0e75b6&style=flat" alt="marius-diran" /> </p> <br>
 
-- #### 🌱 Contributing more to Open Source
-  
-- #### 👯 Ready to collaborate on Hardware or Software projects 
- 
-- #### 🤔 I’m looking for help with...
- 
-- #### 😄 Pronouns: He/Him
- 
-- #### ⚡ Fun fact: I'm an OTAKU and a GAMER <br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marius-diran" alt="marius-diran" /></a> </p> <br>
 
+- 🔭 I’m currently working on [My To-Do List](https://marius-todo-app.netlify.app/)
 
-## My Dev Stats:
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Diran&show_icons=true&locale=en&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28" alt="Marius-Diran" /></p>
-  <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&locale=en" alt="Marius-Diran" /></p>
-  <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marius-Diran&" alt="Marius-Diran" /></p>
- </div> 
- 
-   ## Languages and Tools:
-   
-   <p align="center">
-   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-   
-   ## Connect with me:
-<p align="left">
-<a href="https://twitter.com/odediran_marius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Marius-Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/marius-odediran-94795b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agboola-olawale-damilola-7b2132246" height="30" width="40" /></a>
-<a href="mailto:diranmarius8@gmail.com" alt="contact me"><img align="center" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" width="45" height="45"></a>
+- 🌱 I’m currently learning **Tailwind CSS and JavaScript**
+
+- 👯 I’m looking to collaborate on **Open Source Projects with Front-End Development**
+
+- 👨‍💻 All of my projects are available at [https://mariusodediran.netlify.app/](https://mariusodediran.netlify.app/)
+
+- 📫 How to reach me **themariusodediran@gmail.com**
+
+<br>
+
+# Tech Stack🛠 
+<br>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,firebase,arduino,git,github,vercel,vscode,figma,aws &perline=8"/>
+  </a>
 </p>
+
+****
+
+<br>
+
+### 📊 My Dev Stats 
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marius-Diran&theme=meta-dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-Diran&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+<br>
+<br>
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Marius_Odediran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marius_odediran" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marius-odediran-94795b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius odediran" height="30" width="40" /></a>
+<a href="https://dribbble.com/Marius-dee18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="diran marius" height="30" width="40" /></a>
+<a href="https://www.behance.net/diranmarius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="diran marius" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Marius-Odediran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marius-odediran" height="30" width="40" /></a>
+</p>
+<br>
