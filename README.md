@@ -1,4 +1,4 @@
-<h1 align = center>Hello, I'm Marius Odediran <img src="https://camo.githubusercontent.com/20e405f6ec25a330732ebb2ee78f2d10fa2ed2d41aec1e792310ffb5d055ecc5/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303248425335354643472f636f6f6c2d646f67652f616133633866643930333761303630342e676966"></h1>
+<h1 align = center>Hello, I'm Marius Odediran <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi"></h1>
 
  <h1 align="center">
   <a href="https://git.io/typing-svg">
