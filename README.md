@@ -35,12 +35,16 @@
 
 <br>
 
-### 📊 My Dev Stats 
+## 📊 My Dev Stats 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marius-Diran&theme=meta-dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&theme=transparent)
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Marius-Diran&theme=meta-dark" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marius-Diran&show_icons=true&theme=transparent" alt="Marius-Diran's GitHub stats" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-Diran&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
