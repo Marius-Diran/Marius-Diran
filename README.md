@@ -1,10 +1,13 @@
 <h1 align = center>Hello, I'm Marius Odediran <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi"></h1>
 
  <h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Heyyo!👋;I'm+an+Innovator/Creator...;Welcome+to+my+Profile!&color=1a1aff&center=true&size=25&">
   </a>
 </h1>
+
+![273466689-ec0df78d-82f8-4a7d-9e1f-38a0a59fa0c4](https://github.com/user-attachments/assets/c3220e88-d935-48b9-87ab-134b4d0a5947)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marius-diran&label=Profile%20views&color=0e75b6&style=flat" alt="marius-diran" /> </p> <br>
 
