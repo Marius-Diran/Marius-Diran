@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-![273466689-ec0df78d-82f8-4a7d-9e1f-38a0a59fa0c4](https://github.com/user-attachments/assets/c3220e88-d935-48b9-87ab-134b4d0a5947)
+![Optimized GIF](https://github.com/user-attachments/assets/11ea1445-9dde-4301-9743-6d88c7fd38a2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marius-diran&label=Profile%20views&color=0e75b6&style=flat" alt="marius-diran" /> </p> <br>
 
