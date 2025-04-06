@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marius-diran" alt="marius-diran" /></a> </p> <br>
 
-- 🔭 I’m currently working on [Portfolio-V2](https://marius-todo-app.netlify.app/)
+- 🔭 Just finished my [Portfolio-V2](https://mariusodediranv2.vercel.app/)
 
 - 🌱 I’m currently learning **Tailwind CSS and JavaScript**
 
